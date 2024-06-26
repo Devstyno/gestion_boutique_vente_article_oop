@@ -1,4 +1,4 @@
-# Langage Algorithmique & Python : Collections de données (Les tableaux, les listes à une dimension)
+# Langage Algorithmique & Python : Collections de données (Les tableaux, les listes à une dimension) | OOP Version
 
 ## Problème : Gestion des activités d’une boutique de vente d’articles
 
